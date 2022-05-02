@@ -1,2 +1,2 @@
-# MillaMachado.git.io
+# MillaMachado.github.io
 Jornada Dev
